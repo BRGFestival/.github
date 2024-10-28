@@ -1,3 +1,5 @@
+[![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") American English Version](https://github.com/BRGFestival/.github/blob/main/profile/README_EN.md)
+
 # BR Game Festival
 
 Bem-vindo ao [**BR Game Festival**!](https://brfestival.com.br) Esta é uma plataforma digital que celebra o talento e a criatividade do mercado de jogos indie brasileiro. Criada com o objetivo de apoiar e promover estúdios independentes, nossa plataforma oferece um espaço dedicado para que desenvolvedores possam exibir seus jogos ao público e direcioná-los para lojas onde eles estão disponíveis.
